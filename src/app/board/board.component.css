@@ -1,0 +1,21 @@
+td{
+    border:2px black solid;  
+    height: 100px;
+    width : 100px;
+    text-align: center;
+
+ }
+ table{
+    border: 5px black solid;
+    border-collapse: collapse;  
+ }
+ button{
+    height: 100px;
+    width: 100px;
+ }
+ #last{
+    color: white;
+    height: 50px;
+    width:150px;
+    background-color: green;
+ }
